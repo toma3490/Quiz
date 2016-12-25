@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz_1.0</string>
+    
+    <string name="cadillac">Cadillac</string>
+    <string name="bentley">Bentley</string>
+    <string name="dodge">Dodge</string>
+    <string name="audi">Audi</string>
+
+    <string-array name="one">
+        <item>@string/audi</item>
+        <item>@string/bentley</item>
+        <item>@string/cadillac</item>
+        <item>@string/dodge</item>
+    </string-array>
+</resources>
