@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#673AB7</color>
-    <color name="colorPrimaryDark">#512DA8</color>
-    <color name="colorPrimaryLight">#D1C4E9</color>
-    <color name="colorAccent">#009688</color>
-    <color name="colorPrimaryText">#212121</color>
-    <color name="colorSecondaryText">#757575</color>
+    <color name="colorPrimary">#4b72c3</color>
+    <color name="colorPrimaryDark">#4b72c3</color>
+    <color name="colorPrimaryLight">#00a8d8</color>
+    <color name="colorAccent">#4b72c3</color>
+    <color name="colorPrimaryText">#5e423c</color>
+    <color name="colorSecondaryText">#b6e2f2</color>
     <color name="colorIcons">#FFFFFF</color>
-    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorDivider">#4e93d7</color>
+    <color name="color1">#d0f1fb</color>
+    <color name="color2">#f7fafc</color>
+    <color name="colorBkgProgressBar">#41c0e9</color>
+    <color name="colorProgressBar">#9cdaee</color>
+    <color name="color4">#4a91d7</color>
+    <color name="colorTrue">#84C684</color>
+    <color name="colorFalse">#CB4379</color>
+    <color name="colorTransparent">#00cb4379</color>
 </resources>
